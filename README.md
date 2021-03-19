@@ -1,5 +1,5 @@
 - Hi, I’m @jm-francis
-- I’m interested in Java, C#, Python, HTML, CSS, JavaScript, React, Angular,  
+- I’m interested in Java, C#, Python, HTML, CSS, JavaScript, React, Angular, PostgreSQL, MongoDB and MySQL
 - I’m currently a Software Engineering student.
 
 <!---
